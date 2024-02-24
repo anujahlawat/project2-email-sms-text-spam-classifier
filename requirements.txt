@@ -1,0 +1,6 @@
+streamlit
+sklearn
+string
+pickle
+spacy
+nltk
